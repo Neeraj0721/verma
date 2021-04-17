@@ -47,7 +47,7 @@
           "id": "de260425-7cbd-4440-a943-192ae8780413",
           "type": "Credit",
           "timestamp": "2016-12-09T19:42:31.745Z",
-          "currency": "AUD",
+          "currency": "INR",
           "amount": 1000,
           "balanceBefore": 130000,
           "balanceAfter": 131000
@@ -74,7 +74,7 @@
           "id": "2752fec9-9a7a-4a89-82f0-b306bff4afc8",
           "type": "credit",
           "timestamp": "2016-10-12T05:52:08.653Z",
-          "currency": "AUD",
+          "currency": "INR",
           "amount": 8000,
           "balanceBefore": 142000,
           "balanceAfter": 150000
